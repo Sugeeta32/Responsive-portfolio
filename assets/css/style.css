@@ -136,7 +136,7 @@ margin-top: 0;
     text-align: center;
     margin-left: 40px;
     margin-top: 100px;
-    border: solid;
+    
 
 }
 
@@ -165,7 +165,7 @@ margin-top: 0;
 
     height:300px;
     width:350px;
-    border: solid;
+    
 }
 
 h3{
@@ -203,6 +203,7 @@ h3{
     .img1, .img2, .img3, .img4, .dice, .webdev, .dice1, .health {
         margin-top: 0;
         
+        
     }
     .content{
         background-color: burlywood;
@@ -210,4 +211,10 @@ h3{
     h3{
         display:none;
     }
+    .img1, .img3, .dice, .health{
+        margin-right:0px;
+        padding-left: 9px;
+
+    }
+    
 }
