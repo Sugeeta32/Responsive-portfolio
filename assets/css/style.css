@@ -74,6 +74,7 @@ background-color: #ffffff;
 
 }
 
+
 .name{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -216,5 +217,12 @@ h3{
         padding-left: 9px;
 
     }
+  
+    input, textarea {
+         width:95%; 
+        
+        border:1px solid #dedede;
+         padding:5px; 
+        }
     
 }
